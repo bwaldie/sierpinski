@@ -1,0 +1,2 @@
+# sierpinski
+python class homework
